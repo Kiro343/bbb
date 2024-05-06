@@ -1,0 +1,94 @@
+/*Tabla General y Titulos*/
+
+.Tabla_Rango{
+    /* width: 450px; */
+    /* height: 450px; */
+    border-color: black;
+    border: solid;
+}
+
+.Titulo{
+    background-color:#F8F8FF;
+    color:#520b0b;
+    border: solid;
+}
+
+.Titulo2{
+    background-color:#F8F8FF;
+    border: solid;
+}
+
+/*Enfoque en las estadísticas, se remplaza el % por un 2*/
+
+.Defensa{
+    background-color: #FFFF55;
+    border: solid;
+}
+
+.Defensa2{
+    background-color: #FFD700;
+    border: solid;
+}
+
+.HP{
+    background-color: #8dcc2e;
+    border: solid;
+}
+
+.HP2{
+    background-color: #00ff00;
+    border: solid;
+}
+
+.ATK{
+    background-color: #c83434;
+    border: solid;
+}
+
+.ATK2{
+    background-color: #cb0000;
+    border: solid;
+}
+
+.Recarga_Energía{
+    background-color: #AA00AA;
+    border: solid;
+}
+
+.Maestría_Elemental{
+    background-color: #00AAAA;
+    border: solid;
+}
+
+.Prob_Crítica{
+    background-color: #483D8B;
+    border: solid;
+}
+
+.Daño_Crítico{
+    background-color: #5f00a3;
+    border: solid;
+}
+
+/*Aquí se clasifica la calidad de la estadística*/
+
+.Malo{
+    background-color: #FF5555;
+    border: solid;
+}
+
+.Mediocre{
+    background-color: #FFAA00;
+    border: solid;
+}
+
+.Bueno{
+    background-color: #00AA00;
+    border: solid;
+}
+
+.Excelente{
+    background-color: #00c800;
+    border: solid;
+}
+

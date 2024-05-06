@@ -1,0 +1,83 @@
+
+/*Base del index general*/
+
+.Tabla_Prob_Subida{
+    width: 600px;
+    height: 300px;
+    border: solid;
+    border-color: black;
+}
+
+.TH{
+    background-color:#F8F8FF;
+    border: solid;
+    text-align:center;
+    color:#520b0b;
+}
+
+/*Creación de filas para distinguir los datos en la tabla, los -1 son Center que se separaron de su composición general*/
+
+.Fila1{
+    background-color: #CB4335;
+    text-align: left;
+    border: solid;
+}
+
+.Fila1-1{
+    background-color: #CB4335;
+    text-align: center;
+    border: solid;
+}
+
+.Fila2{
+    background-color: #7D3C98;
+    text-align: center;
+    border: solid;
+}
+
+.Fila3{
+    background-color: #2E86C1;
+    text-align: left;
+    border: solid;
+}
+
+.Fila3-1{
+    background-color: #2E86C1;
+    text-align: center;
+    border: solid;
+}
+
+.Fila4{
+    background-color: #138D75;
+    text-align: left;
+    border: solid;
+}
+
+.Fila4-1{
+    background-color: #138D75;
+    text-align: center;
+    border: solid;
+}
+
+.Fila5{
+    background-color: #28B463;
+    text-align: center;
+    border: solid;
+}
+
+/*Texto*/
+
+.Texto_Final1{
+    background-color:#F8F8FF;
+    border: solid;
+    text-align:center;
+    color:#520b0b;
+}
+
+.Texto_Final2{
+    background-color:#F8F8FF;
+    border: solid;
+    text-align:center;
+
+    color:#520b0b;
+}

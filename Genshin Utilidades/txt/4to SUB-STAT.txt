@@ -1,0 +1,28 @@
+GAMESANDCHILL
+
+Si tiene tres sub-stats > cuarto SUBSTAT - Dos Prioridades
+
+Orden dos prioridades:
+
+#1. Tercer Substat 55% y maximo rango 15-20% 
+
+#2. El 25-30% restante es a romper al siguiente
+
+
+DEF	PLANA
+DEF	%
+
+HP	PLANA
+HP	%
+
+ATQ	PLANO
+ATQ	%
+RECARGA
+ME
+
+PROB.CRÍTICO
+
+DMG.CRÍTICO
+
+GAMESANDCHILL
+
